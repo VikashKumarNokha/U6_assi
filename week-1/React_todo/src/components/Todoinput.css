@@ -1,0 +1,15 @@
+.box {
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.add{
+    border-radius: 10px;
+    padding: 10px 20px 15px 20px;
+    background-color: royalblue;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times,  serif;
+    font-size: larger;
+    
+}

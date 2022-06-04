@@ -1,0 +1,21 @@
+.NavBtn{
+    background-color:rgb(180, 25, 211);
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    color:indianred;
+}
+
+.Navl{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    color:red;
+    font-weight: bold;
+}
+.NavL{
+    color: blanchedalmond;
+}
